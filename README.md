@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-000?style=flat&logo=go&logoColor=00ADD8)
 ![HTML](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS3-000?style=flat&logo=css&logoColor=1572B6)
 
 #### Frameworks y librerías
 
@@ -42,5 +42,5 @@
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edd2604&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Edison" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edd2604&theme=tokyonight" alt="Estadísticas de GitHub de Edison" />
 </p>
