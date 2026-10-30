@@ -41,6 +41,4 @@
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=F24E1E)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edd2604&theme=tokyonight" alt="Estadísticas de GitHub de Edison" />
-</p>
+📫 Abierto a nuevas oportunidades. Mira mis proyectos en [edisoncuya.vercel.app](https://edisoncuya.vercel.app)
